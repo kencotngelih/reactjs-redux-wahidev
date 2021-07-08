@@ -1,0 +1,109 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "nama": "afif",
+        "alamat": "Pekalongan",
+        "umur": 24,
+        "nohp": "0888231232312"
+      },
+      {
+        "id": 2,
+        "nama": "afifudin",
+        "alamat": "Kota Pekalongan",
+        "umur": 24,
+        "nohp": "0888231232314"
+      },
+      {
+        "id": 3,
+        "nama": "m. iriawan",
+        "alamat": "Kabupaten Pekalongan",
+        "umur": 25,
+        "nohp": "0888231232316"
+      },
+      {
+        "id": 4,
+        "nama": "muhammad iriawan",
+        "alamat": "DKI Jakarta",
+        "umur": 31,
+        "nohp": "0888231232318"
+      },
+      {
+        "id": 5,
+        "nama": "bedu",
+        "alamat": "Jakarta Barat",
+        "umur": 19,
+        "nohp": "0888231232320"
+      },
+      {
+        "id": 6,
+        "nama": "beruang madu (bedu)",
+        "alamat": "Solo",
+        "umur": 62,
+        "nohp": "0888231232322"
+      },
+      {
+        "id": 7,
+        "nama": "Siti Nurjanah, S.H.",
+        "alamat": "Surakarta",
+        "umur": 56,
+        "nohp": "0888231232324"
+      },
+      {
+        "id": 8,
+        "nama": "Soekarno",
+        "alamat": "Kabupaten Banyumas",
+        "umur": 36,
+        "nohp": "0888231232326"
+      },
+      {
+        "id": 9,
+        "nama": "Pakde Karwo",
+        "alamat": "Kota Purwokerto",
+        "umur": 64,
+        "nohp": "0888231232328"
+      },
+      {
+        "id": 10,
+        "nama": "Kartono",
+        "alamat": "Jawa Timur",
+        "umur": 24,
+        "nohp": "0888231232330"
+      },
+      {
+        "id": 11,
+        "nama": "An-Nuraeni",
+        "alamat": "Jepara",
+        "umur": 25,
+        "nohp": "0888231232332"
+      },
+      {
+        "id": 12,
+        "nama": "Harsiti",
+        "alamat": "Pulau Bali",
+        "umur": 31,
+        "nohp": "0888231232334"
+      },
+      {
+        "id": 13,
+        "nama": "Kusbandiyo",
+        "alamat": "Makassar",
+        "umur": 44,
+        "nohp": "0888231232336"
+      },
+      {
+        "id": 14,
+        "nama": "bandi",
+        "alamat": "DIY",
+        "umur": 64,
+        "nohp": "0888231232338"
+      },
+      {
+        "id": 15,
+        "nama": "Bandit",
+        "alamat": "Jogja",
+        "umur": 47,
+        "nohp": "0888231232340"
+      }
+    ]
+}
